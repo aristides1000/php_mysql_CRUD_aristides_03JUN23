@@ -3,8 +3,8 @@
 
   $conn = mysqli_connect(
     'localhost',
-    'root',
-    '',
-    'php_mysql_crud_aristides'
+    'id20708902_calculator_php_bootstrap',
+    'Agua55.5',
+    'id20708902_php_mysql_crud_aristides'
   ) or die(mysqli_error($mysqli));
 ?>
